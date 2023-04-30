@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rasiphalalu/static/css/main.72b49f52.css",
+    "main.js": "/Rasiphalalu/static/js/main.74e8483e.js",
+    "static/js/787.81dc7098.chunk.js": "/Rasiphalalu/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/Rasiphalalu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rasiphalalu/index.html",
+    "main.72b49f52.css.map": "/Rasiphalalu/static/css/main.72b49f52.css.map",
+    "main.74e8483e.js.map": "/Rasiphalalu/static/js/main.74e8483e.js.map",
+    "787.81dc7098.chunk.js.map": "/Rasiphalalu/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b49f52.css",
+    "static/js/main.74e8483e.js"
+  ]
+}
